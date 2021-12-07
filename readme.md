@@ -1,1 +1,1 @@
-## A express app built with typescript
+## An express app built with typescript
